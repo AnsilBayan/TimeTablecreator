@@ -13,4 +13,4 @@ Users can automatically enter a course in all their slots by filling the form in
 
 After completing the time table, users can export as a PDF document or as a calendar file.
 
-The project is hosted on [GitHub pages](https://sunilsimon01.github.io/).
+The project is hosted on [GitHub pages](https://ansilbayan.github.io/TimeTablecreator/).
